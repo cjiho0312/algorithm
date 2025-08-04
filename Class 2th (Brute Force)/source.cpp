@@ -47,7 +47,7 @@ int main()
         {
             for (int k = 0; k < N; k++)
             {
-                if (card[i] != card[j] != card[k] && card[i] + card[j] + card[k] > max && card[i] + card[j] + card[k] <= M)
+                if (card[i] != card[j] && card[j] != card[k] && card[i] + card[j] + card[k] > max && card[i] + card[j] + card[k] <= M)
                 {
                     max = card[i] + card[j] + card[k];
                 }
