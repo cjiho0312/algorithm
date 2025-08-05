@@ -11,6 +11,12 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{2608129C-61A6-4CD2-B77F-4ED893060463}|..\\Class 2th (Brute Force)\\Class 2th (Brute Force).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 2th (Brute Force)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA9D11-601A-4124-ACA4-0EF1D2F0E902}|..\\Class 4th (Select Sort)\\Class 4th (Select Sort).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 4th (Select Sort)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A50C4E5-56B6-4D80-AFB4-A045A73A1A56}|..\\Class 3th (Bubble Seat)\\Class 3th (Bubble Seat).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 3th (Bubble Seat)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 4th (Select Sort)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 4th (Select Sort)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 4th (Select Sort)\\source.cpp",
+              "RelativeToolTip": "..\\Class 4th (Select Sort)\\source.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T05:14:07.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 3th (Bubble Seat)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 3th (Bubble Seat)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 3th (Bubble Seat)\\source.cpp",
+              "RelativeToolTip": "..\\Class 3th (Bubble Seat)\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T04:06:25.086Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -30,7 +62,7 @@
               "RelativeDocumentMoniker": "..\\Class 2th (Brute Force)\\source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 2th (Brute Force)\\source.cpp",
               "RelativeToolTip": "..\\Class 2th (Brute Force)\\source.cpp",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwC0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T05:46:43.36Z",
               "EditorCaption": ""
@@ -43,7 +75,7 @@
               "RelativeDocumentMoniker": "..\\Class 1th (Time Complexity \u0026 Space Complexity)\\source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 1th (Time Complexity \u0026 Space Complexity)\\source.cpp",
               "RelativeToolTip": "..\\Class 1th (Time Complexity \u0026 Space Complexity)\\source.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAywDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T05:13:38.865Z",
               "EditorCaption": ""
@@ -56,7 +88,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\Program.cpp*",
               "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T04:25:29.857Z",
               "EditorCaption": ""
