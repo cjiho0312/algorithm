@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 4th (Select Sort)", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 5th (Insert Sort)", "..\Class 5th (Insert Sort)\Class 5th (Insert Sort).vcxproj", "{43598F67-0344-4909-BAC3-785339F26599}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 6th (Euclidean Algorithm)", "..\Class 6th (Euclidean Algorithm)\Class 6th (Euclidean Algorithm).vcxproj", "{1FC6E153-D94F-4FD8-87F4-937CCDEA66DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{43598F67-0344-4909-BAC3-785339F26599}.Release|x64.Build.0 = Release|x64
 		{43598F67-0344-4909-BAC3-785339F26599}.Release|x86.ActiveCfg = Release|Win32
 		{43598F67-0344-4909-BAC3-785339F26599}.Release|x86.Build.0 = Release|Win32
+		{1FC6E153-D94F-4FD8-87F4-937CCDEA66DA}.Debug|x64.ActiveCfg = Debug|x64
+		{1FC6E153-D94F-4FD8-87F4-937CCDEA66DA}.Debug|x64.Build.0 = Debug|x64
+		{1FC6E153-D94F-4FD8-87F4-937CCDEA66DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FC6E153-D94F-4FD8-87F4-937CCDEA66DA}.Debug|x86.Build.0 = Debug|Win32
+		{1FC6E153-D94F-4FD8-87F4-937CCDEA66DA}.Release|x64.ActiveCfg = Release|x64
+		{1FC6E153-D94F-4FD8-87F4-937CCDEA66DA}.Release|x64.Build.0 = Release|x64
+		{1FC6E153-D94F-4FD8-87F4-937CCDEA66DA}.Release|x86.ActiveCfg = Release|Win32
+		{1FC6E153-D94F-4FD8-87F4-937CCDEA66DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
