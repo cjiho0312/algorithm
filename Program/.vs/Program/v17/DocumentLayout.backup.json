@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{A53BCCE9-E332-4327-9246-A8FBBF04D3B1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{55D57C8A-6494-4625-9C4F-E5299521427E}|..\\Class 9th (Binery Search)\\Class 9th (Binery Search).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 9th (Binery Search)\\Class 9th (Binery Search).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1DF8D6E-D308-4A06-91FE-70AF04F78952}|..\\Class 8th (Divide and Conquer)\\Class 8th (Divide and Conquer).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 8th (Divide and Conquer)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,11 +20,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Class 9th (Binery Search).cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 9th (Binery Search)\\Class 9th (Binery Search).cpp",
+              "RelativeDocumentMoniker": "..\\Class 9th (Binery Search)\\Class 9th (Binery Search).cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 9th (Binery Search)\\Class 9th (Binery Search).cpp",
+              "RelativeToolTip": "..\\Class 9th (Binery Search)\\Class 9th (Binery Search).cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvy8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-08T04:06:39.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 8th (Divide and Conquer)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class 8th (Divide and Conquer)\\source.cpp",
@@ -29,8 +45,7 @@
               "RelativeToolTip": "..\\Class 8th (Divide and Conquer)\\source.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-07T06:12:34.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T06:12:34.306Z"
             },
             {
               "$type": "Document",
@@ -40,7 +55,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\Program.cpp*",
               "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T04:25:29.857Z",
               "EditorCaption": ""
