@@ -2,48 +2,87 @@
 
 using namespace std;
 
-int main()
+/*
+int fibonacci(int n)
 {
-#pragma region 계수정렬
-	// 데이터의 값을 비교하지 않고 각 원소에 데이터가 몇 개 있는지
-	// 개수를 세어 저장한 다음 정렬하는 알고리즘입니다.
-
-	int list[] = { 1,3,2,2,4,5,1,2 };
-	int size = sizeof(list) / sizeof(list[0]);
-	int maxSize = 5;
-
-	int *arr = new int[maxSize];
-
-	for (int i = 0; i < maxSize; i++)
+	if (n == 0)
 	{
-		arr[i] = 0;
+		return 0;
 	}
-
-	for (int i = 0; i < size; i++)
+	else if (n <= 1)
 	{
-		for (int j = 0; j <= maxSize; j++)
+		return n;
+	}
+	else
+	{
+		return fibonacci(n - 1) + fibonacci(n - 2);
+	}
+}
+*/
+
+int fibonacci(int n, int list[])
+{
+	if (list[0] == 0)
+	{
+		for (int i = 0; i < n; i++)
 		{
-			if (list[i] == j + 1)
+			if (i <= 1)
 			{
-				arr[j]++;
-				break;
+				list[i] = 1;
+			}
+			else
+			{
+				list[i] = list[i - 1] + list[i - 2];
 			}
 		}
 	}
 
-	int index = 0;
 
-	for (int i = 0; i < size; i++)
+	if (n == 0)
 	{
-		for (int j = 0; j < arr[i]; j++)
-		{
-			list[index] = i + 1;
-			cout << list[index] << " ";
-			index++;
-		}
+		return 0;
+	}
+	else if (n <= 1)
+	{
+		return 1;
+	}
+	else
+	{
+		return fibonacci(list[n - 1], list) + fibonacci(list[n - 2], list);
+	}
+}
+
+int main()
+{
+#pragma region 동적 계획법 (DP)
+	// 특정 범위까지의 값을 구하기 위해 그것과 다른 범위까지의 
+	// 값을 이용하여 효율적으로 값을 구하는 알고리즘입니다.
+
+	// 겹치는 부분 문제 (Overlapping Subproblems)
+	// 동일한 작은 문제들이 반복하여 나타나는 경우를 의미합니다.
+
+	// 최적 부분 구조 (Optimal Substructure)
+	// 부분 문제의 최적 결과 값을 사용하여 전체 문제의 최적의
+	// 결과를 낼 수 있는 경우를 의미합니다.
+
+	// 메모이제이션 (Memoization)
+	// 프로그램이 동일한 계산을 반복해야 할 때, 이전에 계산한 값을
+	// 메모리에 저장함으로써 동일한 계산을 반복 수행하는 작업을
+	// 제거하여 프로그램이 실행 속도를 향상시키는 방법입니다.
+
+	// cout << fibonacci(45);
+
+	int list[100001];
+
+	for (int i = 0; i < 100001; i++)
+	{
+		list[i] = NULL;
 	}
 
+	cout << fibonacci(8, list);
+
 #pragma endregion
+
 
 
 	return 0;
