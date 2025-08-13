@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{A53BCCE9-E332-4327-9246-A8FBBF04D3B1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D7480CD6-3396-4287-807F-608A2546D212}|..\\Class 13th (Dynamic Programming)\\Class 13th (Dynamic Programming).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 13th (Dynamic Programming)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1DF8D6E-D308-4A06-91FE-70AF04F78952}|..\\Class 8th (Divide and Conquer)\\Class 8th (Divide and Conquer).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 8th (Divide and Conquer)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,11 +20,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 13th (Dynamic Programming)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 13th (Dynamic Programming)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 13th (Dynamic Programming)\\source.cpp",
+              "RelativeToolTip": "..\\Class 13th (Dynamic Programming)\\source.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T04:09:51.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 8th (Divide and Conquer)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class 8th (Divide and Conquer)\\source.cpp",
@@ -29,8 +45,7 @@
               "RelativeToolTip": "..\\Class 8th (Divide and Conquer)\\source.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-07T06:12:34.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T06:12:34.306Z"
             },
             {
               "$type": "Document",
@@ -38,9 +53,9 @@
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAADIAAAA8AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T04:25:29.857Z",
               "EditorCaption": ""
