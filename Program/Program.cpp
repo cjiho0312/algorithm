@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -22,33 +22,21 @@ int fibonacci(int n)
 
 int fibonacci(int n, int list[])
 {
-	if (list[0] == 0)
-	{
-		for (int i = 0; i < n; i++)
-		{
-			if (i <= 1)
-			{
-				list[i] = 1;
-			}
-			else
-			{
-				list[i] = list[i - 1] + list[i - 2];
-			}
-		}
-	}
-
-
+ if (list[n] != 0)
+{
+return list[n];
+}
 	if (n == 0)
 	{
-		return 0;
+		return list[n] = 0;
 	}
-	else if (n <= 1)
+	else if (n == 1)
 	{
-		return 1;
+		return list[n] = 1;
 	}
 	else
 	{
-		return fibonacci(list[n - 1], list) + fibonacci(list[n - 2], list);
+		return list[n] = fibonacci(list[n - 1], list) + fibonacci(list[n - 2], list);
 	}
 }
 
@@ -72,12 +60,7 @@ int main()
 
 	// cout << fibonacci(45);
 
-	int list[100001];
-
-	for (int i = 0; i < 100001; i++)
-	{
-		list[i] = NULL;
-	}
+	int list[100001] = {0};
 
 	cout << fibonacci(8, list);
 
