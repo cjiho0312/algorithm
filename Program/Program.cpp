@@ -30,16 +30,14 @@ public:
 	{
 		visited[start] = true;
 
-		for (int i = 0; i < list[start].size(); i++)
-		{
-			visited[i + start] = true;
-		}
-
-		search(start + 2);
-		visited[start + 1] = true;
-
-
-
+		 for (int i = 0; i < list[start].size(); i++)
+    {
+        int next = list[start][i];
+        if (!visited[next])
+        {
+            search(next);
+        }
+    }
 	}
 };
 
