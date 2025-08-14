@@ -7,13 +7,10 @@
       "RelativeMoniker": "D:0:0:{A53BCCE9-E332-4327-9246-A8FBBF04D3B1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14660128-30C0-417A-AF27-2F4CC4E018D6}|..\\Class 14th (Greedy)\\Class 14th (Greedy).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 14th (Greedy)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6225D8EF-AAC5-42E9-AC7D-265DBA86106E}|..\\Class 15th (Depth First Research)\\Class 15th (Depth First Research).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 15th (Depth First Research)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7480CD6-3396-4287-807F-608A2546D212}|..\\Class 13th (Dynamic Programming)\\Class 13th (Dynamic Programming).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 13th (Dynamic Programming)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1DF8D6E-D308-4A06-91FE-70AF04F78952}|..\\Class 8th (Divide and Conquer)\\Class 8th (Divide and Conquer).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 8th (Divide and Conquer)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F341A4B8-069A-47D4-A0E6-6C4AF2CE1B90}|..\\Class 16th (Breadth First Search)\\Class 16th (Breadth First Search).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 16th (Breadth First Search)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,45 +20,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "source.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 14th (Greedy)\\source.cpp",
-              "RelativeDocumentMoniker": "..\\Class 14th (Greedy)\\source.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 14th (Greedy)\\source.cpp",
-              "RelativeToolTip": "..\\Class 14th (Greedy)\\source.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwCcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T05:14:52.418Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "source.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 13th (Dynamic Programming)\\source.cpp",
-              "RelativeDocumentMoniker": "..\\Class 13th (Dynamic Programming)\\source.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 13th (Dynamic Programming)\\source.cpp",
-              "RelativeToolTip": "..\\Class 13th (Dynamic Programming)\\source.cpp",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwEsAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 16th (Breadth First Search)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 16th (Breadth First Search)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 16th (Breadth First Search)\\source.cpp",
+              "RelativeToolTip": "..\\Class 16th (Breadth First Search)\\source.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T04:09:51.158Z",
+              "WhenOpened": "2025-08-14T05:36:42.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "source.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 8th (Divide and Conquer)\\source.cpp",
-              "RelativeDocumentMoniker": "..\\Class 8th (Divide and Conquer)\\source.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 8th (Divide and Conquer)\\source.cpp",
-              "RelativeToolTip": "..\\Class 8th (Divide and Conquer)\\source.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 15th (Depth First Research)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 15th (Depth First Research)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 15th (Depth First Research)\\source.cpp",
+              "RelativeToolTip": "..\\Class 15th (Depth First Research)\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-07T06:12:34.306Z"
+              "WhenOpened": "2025-08-14T04:10:59.825Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -71,7 +56,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T04:25:29.857Z",
               "EditorCaption": ""
