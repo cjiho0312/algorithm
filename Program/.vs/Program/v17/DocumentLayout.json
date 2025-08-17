@@ -1,16 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\algorithm\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6225D8EF-AAC5-42E9-AC7D-265DBA86106E}|..\\Class 15th (Depth First Research)\\Class 15th (Depth First Research).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 15th (Depth First Research)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BF1A1716-B705-41E5-A934-664DC5FB6390}|..\\Homework (Backtracking)\\Homework (Backtracking).vcxproj|C:\\Users\\Legion\\Desktop\\algorithm\\Homework (Backtracking)\\Homework (Backtracking).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F341A4B8-069A-47D4-A0E6-6C4AF2CE1B90}|..\\Class 16th (Breadth First Search)\\Class 16th (Breadth First Search).vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 16th (Breadth First Search)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53BCCE9-E332-4327-9246-A8FBBF04D3B1}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A53BCCE9-E332-4327-9246-A8FBBF04D3B1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6225D8EF-AAC5-42E9-AC7D-265DBA86106E}|..\\Class 15th (Depth First Research)\\Class 15th (Depth First Research).vcxproj|C:\\Users\\Legion\\Desktop\\algorithm\\Class 15th (Depth First Research)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,39 +22,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "source.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 16th (Breadth First Search)\\source.cpp",
-              "RelativeDocumentMoniker": "..\\Class 16th (Breadth First Search)\\source.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 16th (Breadth First Search)\\source.cpp",
-              "RelativeToolTip": "..\\Class 16th (Breadth First Search)\\source.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\algorithm\\Class 15th (Depth First Research)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 15th (Depth First Research)\\source.cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\algorithm\\Class 15th (Depth First Research)\\source.cpp",
+              "RelativeToolTip": "..\\Class 15th (Depth First Research)\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-14T05:36:42.802Z",
+              "WhenOpened": "2025-08-17T12:53:57.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "source.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 15th (Depth First Research)\\source.cpp",
-              "RelativeDocumentMoniker": "..\\Class 15th (Depth First Research)\\source.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Class 15th (Depth First Research)\\source.cpp",
-              "RelativeToolTip": "..\\Class 15th (Depth First Research)\\source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Title": "Homework (Backtracking).cpp",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\algorithm\\Homework (Backtracking)\\Homework (Backtracking).cpp",
+              "RelativeDocumentMoniker": "..\\Homework (Backtracking)\\Homework (Backtracking).cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\algorithm\\Homework (Backtracking)\\Homework (Backtracking).cpp",
+              "RelativeToolTip": "..\\Homework (Backtracking)\\Homework (Backtracking).cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-14T04:10:59.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\Program.cpp",
-              "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CJH\\algorithm\\Program\\Program.cpp",
-              "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-04T04:25:29.857Z",
+              "WhenOpened": "2025-08-17T12:30:50.476Z",
               "EditorCaption": ""
             }
           ]

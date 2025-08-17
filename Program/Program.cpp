@@ -27,20 +27,34 @@ public:
 		degree[edge]++;
 	}
 
-	void sort(int start) // 숙제
+	void sort()
 	{
-		queue.push(start);
+		for (int i = 1; i < SIZE; i++)
+		{
+			if (degree[i] == 0)
+				queue.push(i);
+		}
 
 		while (!queue.empty())
 		{
-			for (int i = 0; i < SIZE; i++)
+			int temp = queue.front();
+			queue.pop();
+
+			cout << temp << " "; 
+
+			for (int j = 0; j < list[temp].size(); j++)
 			{
-				if (degree[i] == 0)
+				int next = list[temp][j];
+
+				degree[next]--;
+
+				if (degree[next] == 0)
 				{
-					
+					queue.push(next);
 				}
 			}
 		}
+		cout << endl;
 	}
 
 	void Dprint()
@@ -79,6 +93,8 @@ int main()
 	graph.insert(6, 7);
 
 	graph.Dprint();
+
+	graph.sort();
 
 	// 위상 정렬하는 방법
 
